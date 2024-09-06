@@ -1,0 +1,73 @@
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+ 
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+ 
+nav ul li {
+    margin-right: 20px;
+}
+ 
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+ 
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+ 
+/* Container de conteúdo */
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+ 
+/* Parágrafos e títulos */
+h1 {
+    font-size: 32px;
+}
+ 
+p {
+    font-size: 18px;
+}
+
+#sm{
+    background-image: url('img/observacao-de-sala-de-aula-getty-images.jpg');
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+}
+
+#hob{
+    background-image: url('img/35a3253cd8b878d5ef729b45becc53b9.jpg');
+    font-family: Arial, sans-serif;
+    color: rgb(248, 248, 248);
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+
+
+}
+
+#index{
+    background-image: url('img/informatica.jpg');
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+}
+
